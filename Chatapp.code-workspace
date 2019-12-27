@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "chatapp"
+    },
+    {
+      "path": "chatapp-backend"
+    }
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
+}
